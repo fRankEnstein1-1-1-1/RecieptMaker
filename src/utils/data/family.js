@@ -314,6 +314,7 @@ export const food = [
 { name: "CHI TOM-YUM", price: 210 },
 { name: "CHI LONG FONG", price: 210 },
 { name: "CHI CLEAR SOUP", price: 180 },
+{ name: "1veg soup", price: 18 },
 ];
 
 export const liquor = [
