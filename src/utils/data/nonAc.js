@@ -19,7 +19,7 @@ export const food = [
   { name: "CHI NOODLE SOUP", price: 170 },
   { name: "CHI TOM-YUM", price: 170 },
   { name: "CHI LONG FONG", price: 170 },
-  { name: "CHI CLEAR SOUP", price: 140 }
+  { name: "CHI CLEAR SOUP", price: 140 },
   { name: "CHICKEN SAATE", price: 310 },
   { name: "CHICKEN 65", price: 310 },
   { name: "CHICKEN GOLD COIN", price: 290 },
